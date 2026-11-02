@@ -1,5 +1,6 @@
 Enterprise Banking Ledger Engine is a real-time transactional stream simulation and financial auditing dashboard built using Python and Streamlit.
 To demonstrate robust, low-level backend engineering principles required for enterprise FinTech platforms, this project completely bypasses standard database frameworks to implement a high-performance custom Doubly Linked List (DLL) architecture directly inside system memory.
+![Project Screenshot](image_ledger%20(2).jpg) 
 
 🚀 Key Technical Highlights
 
@@ -12,4 +13,3 @@ To demonstrate robust, low-level backend engineering principles required for ent
 
 • Languages & Frameworks: Python 3.x, Streamlit (Interactive Frontend Dashboard Architecture)
 • Data Structures & Algorithms: Custom Doubly Linked List (DLL), Linear Traversal Loops, Pointer Manipulation, State Management Control.
-![Project Screenshot](image_ledger%20(2).jpg)
