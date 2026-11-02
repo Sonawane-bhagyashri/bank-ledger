@@ -12,4 +12,4 @@ To demonstrate robust, low-level backend engineering principles required for ent
 
 • Languages & Frameworks: Python 3.x, Streamlit (Interactive Frontend Dashboard Architecture)
 • Data Structures & Algorithms: Custom Doubly Linked List (DLL), Linear Traversal Loops, Pointer Manipulation, State Management Control.
-![Project Screenshot](image_ledger (2).jpg)
+![Project Screenshot](image_ledger%20(2).jpg)
